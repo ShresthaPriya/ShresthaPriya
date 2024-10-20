@@ -4,8 +4,8 @@ a passionate about coding. I'm diving into the world of programming and eager to
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **[Recipe-Sharing-App]**
-- 🌱 I’m currently learning **[Advanced JavaScript]**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB**
+- 🌱 I’m currently learning **[Advanced JavaScript and Java]**
+- 💬 Ask me about: **Java, JavaScript, React, Node.js, MongoDB**
 - 📫 How to reach me: **Shresthapia7@gmail.com**
 
 
