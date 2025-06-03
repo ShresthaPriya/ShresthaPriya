@@ -3,7 +3,7 @@
 a passionate about coding. I'm diving into the world of programming and eager to learn and grow with every project. I’m currently working on building a recipe-sharing app and exploring various technologies. Excited to connect and collaborate with fellow enthusiasts!
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **[Recipe-Sharing-App]**
+- 🔭 I’m currently working on **[Final Year Project]**
 - 🌱 I’m currently learning **[Advanced JavaScript and Java]**
 - 💬 Ask me about: **Java, JavaScript, React, Node.js, MongoDB**
 - 📫 How to reach me: **Shresthapia7@gmail.com**
